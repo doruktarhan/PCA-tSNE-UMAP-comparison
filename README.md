@@ -1,5 +1,5 @@
 # PCA-tSNE-UMAP-comparison
-Comparison of PCA, tSNE and UMAP feature reduction techniques 
+Comparison of PCA, tSNE and UMAP feature reduction techniques on MNIST dataset.
 
 There are two main approaches in reducing dimensionality. They are Projection and Manifold Learning. Projection methods tries to project every data point in high dimension to low dimension, while preserving the distance between them. In Manifold Learning, the algorithm works by modelling the manifold on which the training instances lie. The advantage of Manifold Learning methods that they are non-linear methods so that they can relate close samples to each other in a non-linear way with less effort. 
 
